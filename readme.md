@@ -14,7 +14,8 @@ Built with Streamlit and Diffusers, this app provides an easy-to-use interface f
 ## Demo
 
 This image demonstrates the app interface with image generation and transformation features.
-![image-1](https://github.com/user-attachments/assets/a1781493-e841-4e26-9534-d62e95e9fce7)
+![image](https://github.com/user-attachments/assets/afb6b399-20f6-498a-bace-bb9d9583a884)
+
 
 
 
@@ -26,7 +27,7 @@ streamlit run app.py
 ```
 The app should open automatically, but if not, navigate to http://localhost:8501 in your web browser.
 ## Project Structure
-![alt text](image-1.png)
+![image-1](https://github.com/user-attachments/assets/a1781493-e841-4e26-9534-d62e95e9fce7)
 
 ## Acknowledgments
 - Hugging Face Diffusers Library for providing a streamlined interface to work with Stable Diffusion.
