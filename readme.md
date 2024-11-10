@@ -14,7 +14,8 @@ Built with Streamlit and Diffusers, this app provides an easy-to-use interface f
 ## Demo
 
 This image demonstrates the app interface with image generation and transformation features.
-![](image.png)
+![image-1](https://github.com/user-attachments/assets/a1781493-e841-4e26-9534-d62e95e9fce7)
+
 
 
 ## Usage
