@@ -33,3 +33,5 @@ The app should open automatically, but if not, navigate to http://localhost:8501
 - Hugging Face Diffusers Library for providing a streamlined interface to work with Stable Diffusion.
 - Streamlit for enabling easy web app deployment.
 - CompVis for the Stable Diffusion model.
+## result
+![generated_image_1](https://github.com/user-attachments/assets/691d0d08-ad9c-4d6b-94f3-83a06e793f41)
